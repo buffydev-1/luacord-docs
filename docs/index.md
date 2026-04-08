@@ -1,11 +1,12 @@
- # LuaCord Documentation
+# LuaCord Documentation
 
-  Welcome to the official docs for **LuaCord**.
-
-  LuaCord is a modern async Lua Discord API library and spiritual successor to Discordia.
+  Modern async Lua Discord API library for 2026.
+  Spiritual successor to Discordia.
 
   - GitHub: https://github.com/buffydev-1/luacord
   - LuaRocks: https://luarocks.org/modules/buffydev-1/luacord
+
+  ---
 
   ## Install
 
@@ -37,20 +38,24 @@
   client:login(os.getenv("DISCORD_BOT_TOKEN"))
   client:run()
 
-  ## What’s Covered
+  ## Status
+
+  LuaCord is live on GitHub and LuaRocks and actively maintained.
+
+  ## Features
 
   - Discord API v10 foundation
   - Gateway identify, heartbeat, reconnect, resume
-  - Rate-limit-aware REST requests
+  - Rate-limit-aware REST client
   - Slash commands and interactions
-  - Components (buttons/selects/modals/autocomplete)
-  - Caching for guilds, channels, members, roles, messages, users
+  - Components (buttons, selects, modals, autocomplete)
+  - Cache for guilds, channels, members, roles, messages, users
 
   ## Docs Map
 
-  - Getting Started: setup, install, first bot
-  - Client: lifecycle, login, events
+  - Getting Started: setup and first bot
+  - Client: lifecycle and events
   - REST: endpoint usage patterns
   - Structures: Guild, Channel, Message, User, Member, Role, Interaction
   - Enums: intents, permissions, interaction/component types
-  - Examples: practical bot snippets
+  - Examples: practical snippets
