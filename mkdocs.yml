@@ -1,34 +1,9 @@
 site_name: LuaCord Docs
-  site_url: https://buffydev-1.github.io/luacord-docs/
-  repo_url: https://github.com/buffydev-1/luacord
-  repo_name: buffydev-1/luacord
-
-  theme:
+site_url: https://buffydev-1.github.io/luacord-docs/
+theme:
     name: material
-    logo: assets/logo.png
-    favicon: assets/logo.png
-    features:
-      - navigation.tabs
-      - navigation.sections
-      - navigation.expand
-      - content.code.copy
-      - search.suggest
-      - search.highlight
-    palette:
-      - scheme: default
-        primary: indigo
-        accent: cyan
 
-  markdown_extensions:
-    - admonition
-    - attr_list
-    - md_in_html
-    - pymdownx.superfences
-    - pymdownx.highlight
-    - pymdownx.inlinehilite
-    - pymdownx.emoji
-
-  nav:
+nav:
     - Home: index.md
     - Getting Started: getting-started.md
     - Client:
