@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/enums/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/examples/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/getting-started/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/structures/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/client/events/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/client/overview/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+    <url>
+         <loc>https://buffydev-1.github.io/luacord-docs/rest/overview/</loc>
+         <lastmod>2026-04-08</lastmod>
+    </url>
+</urlset>
