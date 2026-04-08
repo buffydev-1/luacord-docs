@@ -1,5 +1,6 @@
- site_name: LuaCord Docs
-  site_url: https://buffydev-1.github.io/luacord-docs/
+
+  site_name: "LuaCord Docs"
+  site_url: "https://buffydev-1.github.io/luacord-docs/"
   theme:
     name: material
   nav:
