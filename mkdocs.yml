@@ -1,0 +1,15 @@
+ site_name: LuaCord Docs
+  site_url: https://buffydev-1.github.io/luacord-docs/
+  theme:
+    name: material
+  nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - Client:
+        - Overview: client/overview.md
+        - Events: client/events.md
+    - REST:
+        - Overview: rest/overview.md
+    - Structures: structures.md
+    - Enums: enums.md
+    - Examples: examples.md
